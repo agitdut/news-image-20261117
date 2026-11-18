@@ -1,10 +1,10 @@
 // news-image-20261117 entry (Node 22, standard library only): the picture of
-// Tuesday 17 November 2026 is entry.png beside this file -- a newspaper
-// front page drawn in code (draw_news.py) with four panels: the Crimea
-// bridge partly collapsing after a Ukrainian strike, the U.S. strike on
-// Qeshm Island and Iran's drone replies in the Gulf, the An-12 crash in
-// Siberia that killed all 19 on board, and the U.S. losing its measles
-// elimination status -- and this program copies it to /output/entry.png.
+// Tuesday 17 November 2026 is entry.png beside this file -- a dense
+// single front page drawn in code (draw_news.py): a Gulf lead with a
+// world-at-a-glance map and the Shenzhen summit, three illustrated
+// features (Kerch bridge, the An-12 crash in Siberia, measles), three
+// columns of short items, a markets strip and an also-in-brief footer --
+// and this program copies it to /output/entry.png.
 // The gate takes a whole PNG or JPEG of at most 1 MiB and 1024 by 1024
 // pixels, and the judge sees exactly the bytes copied, so the file is
 // stored already within those limits (1024 by 1024, PNG under 1 MiB).
